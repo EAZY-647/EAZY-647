@@ -24,25 +24,19 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="https://github.com/74th/74th/raw/master/assets/lines/rainbow-line.gif" width="100%" height="5px" />
-</div>
+---
 
-<br>
-
-### <img src="https://media.giphy.com/media/QssGEmpjCSD8V4yYI2/giphy.gif" width="35"> **About Me**
+### **About Me**
 
 I am a **Data Engineer** at **BYTEIQ**, focusing on building "indestructible" data pipelines. My expertise lies in architecting scalable systems that transform raw, high-velocity data into insights. I move beyond simple ETL by mastering **Distributed Systems**, **Database Concurrency**, and **Cloud Infrastructure**.
 
-> <img src="https://media.giphy.com/media/hFmYU66w6F8is/giphy.gif" width="20"> *"I don't just move data; I architect the flow."*
+> *"I don't just move data; I architect the flow."*
 
 <br>
 
-<div align="center">
-  <img src="https://github.com/74th/74th/raw/master/assets/lines/rainbow-line.gif" width="100%" height="5px" />
-</div>
+---
 
-### <img src="https://media.giphy.com/media/26tn33aiU1jFEOQJY1/giphy.gif" width="35"> **Tech Stack**
+### **Tech Stack**
 
 | **Category** | **Technologies** |
 | :--- | :--- |
@@ -54,11 +48,9 @@ I am a **Data Engineer** at **BYTEIQ**, focusing on building "indestructible" da
 
 <br>
 
-<div align="center">
-  <img src="https://github.com/74th/74th/raw/master/assets/lines/rainbow-line.gif" width="100%" height="5px" />
-</div>
+---
 
-### <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="35"> **Featured Projects**
+### **Featured Projects**
 
 #### 1. [Real-Time Stock Market Data Pipeline](https://github.com/EAZY-647/real_time_stock_analysis_with_data_engineering)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
@@ -84,11 +76,9 @@ Built a robust **Lakehouse** solution handling incremental data loads with schem
 
 <br>
 
-<div align="center">
-  <img src="https://github.com/74th/74th/raw/master/assets/lines/rainbow-line.gif" width="100%" height="5px" />
-</div>
+---
 
-### <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="35"> **Certifications**
+### **Certifications**
 
 | Certification | Organization |
 | :--- | :--- |
@@ -110,19 +100,5 @@ Built a robust **Lakehouse** solution handling incremental data loads with schem
 <br>
 
 <div align="center">
-  <img src="https://github.com/74th/74th/raw/master/assets/lines/rainbow-line.gif" width="100%" height="5px" />
-
-  <br><br>
-
-  <a href="https://github.com/EAZY-647">
-    <img src="https://github-readme-stats.vercel.app/api?username=EAZY-647&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Ayush's GitHub stats" />
-  </a>
-  <a href="https://github.com/EAZY-647">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAZY-647&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-
-  <br><br>
-
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-
 </div>
