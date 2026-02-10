@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="auto" alt="High Quality Data Animation"/>
-</div>
-
-<div align="center">
-  <h1 align="center">Hi, I'm Ayush Kumar Sahu! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+  <h1 align="center">Hi, I'm Ayush Kumar Sahu!</h1>
 
   <h3 align="center">🚀 Data Engineer @ BYTEIQ | M.Sc. Big Data Science (Distinction)</h3>
   <h4 align="center">Specializing in Distributed Systems, Real-Time Streaming, and Cloud Infrastructure</h4>
@@ -25,8 +21,6 @@
 
 ### 👨‍💻 **About Me**
 
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding Animation">
-
 I am a **Data Engineer** at **BYTEIQ**, where I focus on building "indestructible" data pipelines. My expertise lies in architecting scalable systems that transform raw, high-velocity data into business-critical insights.
 
 I move beyond simple ETL by mastering the deep internals of **Distributed Systems**, **Database Concurrency**, and **Cloud Infrastructure**. I am passionate about optimizing data flow, reducing latency, and ensuring strict data integrity across complex architectures.
@@ -37,14 +31,12 @@ I move beyond simple ETL by mastering the deep internals of **Distributed System
 
 > *"I don't just move data; I architect the flow."*
 
-<br clear="right"/>
-
 ---
 
 ### 🛠️ **The Comprehensive Tech Stack**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284110-53907036-79c2-4632-8404-20d04f292394.gif" width="100%" height="40" alt="Data Stream"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284110-53907036-79c2-4632-8404-20d04f292394.gif" width="100%" height="40" alt="Rainbow Border"/>
 </div>
 
 | **Domain** | **Tools & Technologies** |
@@ -84,10 +76,6 @@ I move beyond simple ETL by mastering the deep internals of **Distributed System
 ---
 
 ### 📜 **Certifications & Credentials**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Zdg7kl9b93qsqfJ2oI/giphy.gif" width="80" alt="Trophy Animation"/>
-</div>
 
 | Issuing Organization | Certification Name |
 | :--- | :--- |
@@ -136,7 +124,7 @@ I move beyond simple ETL by mastering the deep internals of **Distributed System
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiU1UfKDad2/giphy.gif" width="120" alt="Retro Server GIF"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Cat Typing"/>
   <br>
   <b>Let's build something scalable together.</b>
 </div>
