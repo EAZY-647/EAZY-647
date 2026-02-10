@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300" alt="Data Engineering Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="auto" alt="High Quality Data Animation"/>
 </div>
 
 <div align="center">
@@ -25,6 +25,8 @@
 
 ### 👨‍💻 **About Me**
 
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Coding GIF">
+
 I am a **Data Engineer** at **BYTEIQ**, where I focus on building "indestructible" data pipelines. My expertise lies in architecting scalable systems that transform raw, high-velocity data into business-critical insights.
 
 I move beyond simple ETL by mastering the deep internals of **Distributed Systems**, **Database Concurrency**, and **Cloud Infrastructure**. I am passionate about optimizing data flow, reducing latency, and ensuring strict data integrity across complex architectures.
@@ -35,9 +37,15 @@ I move beyond simple ETL by mastering the deep internals of **Distributed System
 
 > *"I don't just move data; I architect the flow."*
 
+<br clear="right"/>
+
 ---
 
 ### 🛠️ **The Comprehensive Tech Stack**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/VtFXkXk76t960/giphy.gif" width="100%" height="50" alt="Server blinker separator"/>
+</div>
 
 | **Domain** | **Tools & Technologies** |
 | :--- | :--- |
@@ -51,12 +59,8 @@ I move beyond simple ETL by mastering the deep internals of **Distributed System
 
 ### 🏆 **Featured Projects**
 
-#### **1. 💹 Real-Time Stock Market Data Pipeline**
+#### **1. 💹 [Real-Time Stock Market Data Pipeline](https://github.com/EAZY-647/real_time_stock_analysis_with_data_engineering)**
 *An end-to-end streaming architecture utilizing the Modern Data Stack.*
-
-<a href="https://youtu.be/JCDrvXwh4BQ?si=frZUZTc_T73x1nvt">
-  <img src="https://img.youtube.com/vi/JCDrvXwh4BQ/0.jpg" width="400" alt="Stock Market Project">
-</a>
 
 * **Tech Stack:** Kafka, Airflow, Snowflake, dbt, Docker, MinIO, Power BI.
 * **Architecture:** Engineered a high-throughput pipeline to ingest live stock market data from the **FinHub API**.
@@ -67,12 +71,8 @@ I move beyond simple ETL by mastering the deep internals of **Distributed System
     * **Orchestration:** Automated the entire workflow using **Apache Airflow DAGs**.
     * **Real-Time Dashboards:** Connected **Power BI** via DirectQuery to visualize live market volatility and trends.
 
-#### **2. 🚀 Databricks x dbt: Production-Grade Lakehouse**
+#### **2. 🚀 [Databricks x dbt: Production-Grade Lakehouse](https://github.com/EAZY-647/Databricks_end_to_end_flights)**
 *A scalable ETL pipeline implementing the Medallion Architecture on the Lakehouse.*
-
-<a href="https://youtu.be/vT7Oeu7WqHg?si=9KinVb3cX2wx98Ij">
-  <img src="https://img.youtube.com/vi/vT7Oeu7WqHg/0.jpg" width="400" alt="Databricks dbt Project">
-</a>
 
 * **Tech Stack:** Databricks, Spark Structured Streaming, Auto Loader, Unity Catalog, dbt.
 * **Architecture:** Built a robust **Lakehouse** solution handling incremental data loads with schema enforcement.
@@ -91,23 +91,21 @@ I move beyond simple ETL by mastering the deep internals of **Distributed System
 
 ---
 
-### 📊 **GitHub Analytics & The Snake Game** 🐍
+### 📊 **GitHub Analytics**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EAZY-647&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAZY-647&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github.com/EAZY-647/EAZY-647/blob/output/github-contribution-grid-snake.svg" alt="snake-animation" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EAZY-647&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/QvVTcFQ4tY76/giphy.gif" width="120" alt="Server GIF"/>
   <br>
   <b>Let's build something scalable together.</b>
 </div>
