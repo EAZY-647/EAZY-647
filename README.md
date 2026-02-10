@@ -25,7 +25,7 @@
 
 ### 👨‍💻 **About Me**
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Coding GIF">
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding Animation">
 
 I am a **Data Engineer** at **BYTEIQ**, where I focus on building "indestructible" data pipelines. My expertise lies in architecting scalable systems that transform raw, high-velocity data into business-critical insights.
 
@@ -44,13 +44,13 @@ I move beyond simple ETL by mastering the deep internals of **Distributed System
 ### 🛠️ **The Comprehensive Tech Stack**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/VtFXkXk76t960/giphy.gif" width="100%" height="50" alt="Server blinker separator"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284110-53907036-79c2-4632-8404-20d04f292394.gif" width="100%" height="40" alt="Data Stream"/>
 </div>
 
 | **Domain** | **Tools & Technologies** |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Data Engineering** | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
+| **Data Engineering** | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
 | **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72C48?style=flat-square&logo=minio&logoColor=white) |
 | **Databases** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
 | **Visualization** | ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
@@ -83,29 +83,47 @@ I move beyond simple ETL by mastering the deep internals of **Distributed System
 
 ---
 
-### 📜 **Certifications**
-* ✅ **Microsoft:** Complete Data Engineering With Azure
-* ✅ **Google:** Data Analytics Specialization
-* ✅ **DataCamp:** SQL Associate
-* ✅ **COSS:** RHCSA & RHCE, Docker, Kubernetes
+### 📜 **Certifications & Credentials**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Zdg7kl9b93qsqfJ2oI/giphy.gif" width="80" alt="Trophy Animation"/>
+</div>
+
+| Issuing Organization | Certification Name |
+| :--- | :--- |
+| **Microsoft** | Complete Data Engineering With Azure - Basic To Advance |
+| **Google** | Google Data Analytics Specialization |
+| **Google Cloud** | Google Cloud and Networking for AWS Professionals |
+| **DataCamp** | SQL Associate |
+| **COSS** | RHCSA & RHCE, PYTHON, AWS, DOCKER AND KUBERNETES |
+| **Codebasics** | Power BI Data Analytics for All Levels 3.0 |
+| **Codebasics** | Excel: Mother of Business Intelligence |
+| **Coding Ninjas** | Data Science & Machine Learning Complete Course |
+| **Coding Ninjas** | Introduction to Python |
+| **Udemy** | Data Science & Machine Learning Bootcamp with R |
+| **CareerLabs** | Python Foundation with Data Structures |
+| **upGrad Campus** | Artificial Intelligence & Machine Learning |
+| **upGrad Campus** | Data Science & Analytics |
 
 ---
 
-### 📊 **GitHub Analytics**
+### 📊 **GitHub Analytics & The Snake Game** 🐍
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EAZY-647&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAZY-647&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EAZY-647&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github.com/EAZY-647/EAZY-647/blob/output/github-contribution-grid-snake.svg" alt="snake-animation" width="100%"/>
 </div>
 
----
+<br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QvVTcFQ4tY76/giphy.gif" width="120" alt="Server GIF"/>
+  <img src="https://media.giphy.com/media/26tn33aiU1UfKDad2/giphy.gif" width="120" alt="Retro Server GIF"/>
   <br>
   <b>Let's build something scalable together.</b>
 </div>
