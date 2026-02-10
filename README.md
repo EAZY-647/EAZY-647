@@ -6,7 +6,7 @@
   <h1 align="center">Hi, I'm Ayush Kumar Sahu! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
   <h3 align="center">🚀 Data Engineer @ BYTEIQ | M.Sc. Big Data Science (Distinction)</h3>
-  <h4 align="center">Specializing in Databricks, dbt, and Scalable Data Systems</h4>
+  <h4 align="center">Specializing in Distributed Systems, Real-Time Streaming, and Cloud Infrastructure</h4>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/ayush-ku-sahu/">
@@ -25,13 +25,13 @@
 
 ### 👨‍💻 **About Me**
 
-I am currently working as a **Data Engineer** at **BYTEIQ**. 
+I am a **Data Engineer** at **BYTEIQ**, where I focus on building "indestructible" data pipelines. My expertise lies in architecting scalable systems that transform raw, high-velocity data into business-critical insights.
 
-I thrive on building "indestructible" data pipelines. My focus right now is moving beyond simple ETL and mastering the deep internals of **Distributed Systems**, **Database Locks**, and **Cloud Infrastructure**.
+I move beyond simple ETL by mastering the deep internals of **Distributed Systems**, **Database Concurrency**, and **Cloud Infrastructure**. I am passionate about optimizing data flow, reducing latency, and ensuring strict data integrity across complex architectures.
 
 * 🎓 **Education:** M.Sc. Big Data Science (Queen Mary University of London) & B.Tech ECE.
 * 💼 **Current Role:** Data Engineer @ **BYTEIQ**.
-* 🔭 **Focus:** Mastering **Databricks Lakehouse**, **dbt**, and **Low-level Database Internals** (ACID/Deadlocks).
+* 🔭 **Focus:** Building production-grade Lakehouse architectures and real-time streaming grids.
 
 > *"I don't just move data; I architect the flow."*
 
@@ -42,37 +42,72 @@ I thrive on building "indestructible" data pipelines. My focus right now is movi
 | **Domain** | **Tools & Technologies** |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Data Engineering** | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) |
-| **Cloud (AWS)** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) `S3` `EC2` `Lambda` `Glue` `Redshift` `EMR` |
-| **DevOps & CI/CD** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
+| **Data Engineering** | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
+| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72C48?style=flat-square&logo=minio&logoColor=white) |
+| **Databases** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **Visualization** | ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 
 ---
 
-### 🏆 **Featured Project**
+### 🏆 **Featured Projects**
 
-#### **🚀 Databricks x dbt: Production-Grade Data Pipeline**
-*An industry-level End-to-End pipeline implementing the Medallion Architecture.*
+#### **1. 💹 Real-Time Stock Market Data Pipeline**
+*An end-to-end streaming architecture utilizing the Modern Data Stack.*
 
-<a href="https://youtu.be/vT7Oeu7WqHg?si=ldVsXeZppQFE6XGh">
+<a href="https://youtu.be/JCDrvXwh4BQ?si=frZUZTc_T73x1nvt">
+  <img src="https://img.youtube.com/vi/JCDrvXwh4BQ/0.jpg" width="400" alt="Stock Market Project">
+</a>
+
+* **Tech Stack:** Kafka, Airflow, Snowflake, dbt, Docker, MinIO, Power BI.
+* **Architecture:** Engineered a high-throughput pipeline to ingest live stock market data from the **FinHub API**.
+* **Key Implementations:**
+    * **Streaming Ingestion:** Deployed **Kafka** producers/consumers within **Docker** containers to stream data in real-time.
+    * **Cloud Storage Simulation:** Integrated **MinIO** as an S3-compatible object storage layer for raw data staging.
+    * **Warehousing & Transformation:** Loaded data into **Snowflake** and performed multi-layer transformations (Bronze/Silver/Gold) using **dbt**.
+    * **Orchestration:** Automated the entire workflow using **Apache Airflow DAGs**.
+    * **Real-Time Dashboards:** Connected **Power BI** via DirectQuery to visualize live market volatility and trends.
+
+#### **2. 🚀 Databricks x dbt: Production-Grade Lakehouse**
+*A scalable ETL pipeline implementing the Medallion Architecture on the Lakehouse.*
+
+<a href="https://youtu.be/vT7Oeu7WqHg?si=9KinVb3cX2wx98Ij">
   <img src="https://img.youtube.com/vi/vT7Oeu7WqHg/0.jpg" width="400" alt="Databricks dbt Project">
 </a>
 
-* **Tech Stack:** Databricks, dbt, Spark Structured Streaming, Auto Loader, Unity Catalog.
-* **Architecture:** Implemented **Bronze (Raw)**, **Silver (Cleaned)**, and **Gold (Aggregated)** layers.
-* **Key Innovations:**
-    * **Dynamic Star Schema Builder:** Created a fully dynamic solution for **Slowly Changing Dimensions (SCD Type 1 & 2)**.
-    * **Lakeflow Declarative Pipelines:** Utilized the latest Databricks features (formerly DLT) for reliable orchestration.
+* **Tech Stack:** Databricks, Spark Structured Streaming, Auto Loader, Unity Catalog, dbt.
+* **Architecture:** Built a robust **Lakehouse** solution handling incremental data loads with schema enforcement.
+* **Key Implementations:**
+    * **Dynamic Schema Evolution:** Utilized **Auto Loader** to handle schema drift and incremental file ingestion automatically.
+    * **Custom SCD Framework:** Developed a **Dynamic Star Schema Builder** capable of handling **Slowly Changing Dimensions (SCD Type 1 & 2)** for any dataset without manual code changes.
+    * **Declarative Pipelines:** Leveraged **Databricks Workflows** and **dbt** for rigorous testing and data quality checks within the pipeline.
 
 ---
 
-### 🧪 **Current Experiment: The "Deadlock" Simulation**
+### 📜 **Certifications**
+* ✅ **Microsoft:** Complete Data Engineering With Azure
+* ✅ **Google:** Data Analytics Specialization
+* ✅ **DataCamp:** SQL Associate
+* ✅ **COSS:** RHCSA & RHCE, Docker, Kubernetes
 
-I am currently building a custom bi-directional pipeline to stress-test **ACID properties**.
+---
 
-```mermaid
-graph LR
-    A[MySQL] -->|Fetch| B(Python)
-    B -->|Transform| C[PostgreSQL]
-    C -->|Process| D(Python)
-    D -->|Write Back| A
+### 📊 **GitHub Analytics & The Snake Game** 🐍
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EAZY-647&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAZY-647&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/EAZY-647/EAZY-647/blob/output/github-contribution-grid-snake.svg" alt="snake-animation" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <br>
+  <b>Let's build something scalable together.</b>
+</div>
