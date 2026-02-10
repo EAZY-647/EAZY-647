@@ -107,20 +107,32 @@ I move beyond simple ETL by mastering the deep internals of **Distributed System
 
 ---
 
-### 📊 **GitHub Analytics & The Snake Game** 🐍
+### 🎮 **Achievements & Randomness**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EAZY-647&theme=tokyonight&no-frame=true&margin-w=15" alt="trophy" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
+
+---
+
+### 📊 **GitHub Analytics**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EAZY-647&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAZY-647&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github.com/EAZY-647/EAZY-647/blob/output/github-contribution-grid-snake.svg" alt="snake-animation" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EAZY-647&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
-<br>
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiU1UfKDad2/giphy.gif" width="120" alt="Retro Server GIF"/>
