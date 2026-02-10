@@ -1,5 +1,9 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Ayush Kumar Sahu!</h1>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="auto" alt="High Quality Data Animation"/>
+</div>
+
+<div align="center">
+  <h1 align="center">Hi, I'm Ayush Kumar Sahu! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
   <h3 align="center">🚀 Data Engineer @ BYTEIQ | M.Sc. Big Data Science (Distinction)</h3>
   <h4 align="center">Specializing in Distributed Systems, Real-Time Streaming, and Cloud Infrastructure</h4>
