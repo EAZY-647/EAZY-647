@@ -91,13 +91,14 @@ I move beyond simple ETL by mastering the deep internals of **Distributed System
 
 | Issuing Organization | Certification Name |
 | :--- | :--- |
-| **Microsoft** | Complete Data Engineering With Azure - Basic To Advance |
+| **Grow Data Skills** | Complete Data Engineering With Azure - Basic To Advance |
 | **Google** | Google Data Analytics Specialization |
-| **Google Cloud** | Google Cloud and Networking for AWS Professionals |
+| **Coursera** | Google Cloud and Networking for AWS Professionals |
 | **DataCamp** | SQL Associate |
 | **COSS** | RHCSA & RHCE, PYTHON, AWS, DOCKER AND KUBERNETES |
 | **Codebasics** | Power BI Data Analytics for All Levels 3.0 |
 | **Codebasics** | Excel: Mother of Business Intelligence |
+| **Codebasics** | Virtual Internship |
 | **Coding Ninjas** | Data Science & Machine Learning Complete Course |
 | **Coding Ninjas** | Introduction to Python |
 | **Udemy** | Data Science & Machine Learning Bootcamp with R |
@@ -107,7 +108,7 @@ I move beyond simple ETL by mastering the deep internals of **Distributed System
 
 ---
 
-### 🎮 **Achievements & Randomness**
+### 🎮 **Achievements & Developer Card**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EAZY-647&theme=tokyonight&no-frame=true&margin-w=15" alt="trophy" />
