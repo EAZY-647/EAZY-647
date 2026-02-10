@@ -108,6 +108,14 @@ I move beyond simple ETL by mastering the deep internals of **Distributed System
 
 ---
 
+### 🧩 **Developer Distractions**
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
+
+---
+
 ### 📊 **GitHub Analytics**
 
 <div align="center">
@@ -115,11 +123,7 @@ I move beyond simple ETL by mastering the deep internals of **Distributed System
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAZY-647&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EAZY-647&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
-
----
+<br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiU1UfKDad2/giphy.gif" width="120" alt="Retro Server GIF"/>
