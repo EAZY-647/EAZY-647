@@ -39,8 +39,6 @@ I thrive on building "indestructible" data pipelines. My focus right now is movi
 
 ### 🛠️ **The Comprehensive Tech Stack**
 
-I believe in using the right tool for the job. Here is my complete arsenal:
-
 | **Domain** | **Tools & Technologies** |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
@@ -48,7 +46,6 @@ I believe in using the right tool for the job. Here is my complete arsenal:
 | **Cloud (AWS)** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) `S3` `EC2` `Lambda` `Glue` `Redshift` `EMR` |
 | **DevOps & CI/CD** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
 
 ---
 
@@ -65,9 +62,17 @@ I believe in using the right tool for the job. Here is my complete arsenal:
 * **Architecture:** Implemented **Bronze (Raw)**, **Silver (Cleaned)**, and **Gold (Aggregated)** layers.
 * **Key Innovations:**
     * **Dynamic Star Schema Builder:** Created a fully dynamic solution for **Slowly Changing Dimensions (SCD Type 1 & 2)**.
-    * **Auto Loader:** Handled incremental data ingestion automatically from cloud storage.
     * **Lakeflow Declarative Pipelines:** Utilized the latest Databricks features (formerly DLT) for reliable orchestration.
-    * **dbt Integration:** Performed complex SQL transformations and data quality testing using dbt.
 
 ---
 
+### 🧪 **Current Experiment: The "Deadlock" Simulation**
+
+I am currently building a custom bi-directional pipeline to stress-test **ACID properties**.
+
+```mermaid
+graph LR
+    A[MySQL] -->|Fetch| B(Python)
+    B -->|Transform| C[PostgreSQL]
+    C -->|Process| D(Python)
+    D -->|Write Back| A
