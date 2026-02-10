@@ -47,13 +47,3 @@ Currently, I am going "under the hood" of computer science. I am diving deep int
 
 ---
 
-### 🧪 **Current Experiment: The "Loop" Pipeline**
-
-I am building a bi-directional data pipeline to test **Normalization** and **ACID properties** in real-time.
-
-```mermaid
-graph LR
-    A[MySQL Source] -->|Extract| B(Python/Pandas)
-    B -->|Transform & Load| C[PostgreSQL Target]
-    C -->|Fetch & Process| D(Python Logic)
-    D -->|Final Write| A
